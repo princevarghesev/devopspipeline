@@ -10,7 +10,7 @@ public class PipelineController {
 
     @GetMapping("/load")
     public String loadPipelineMessageMethod(){
-        return "Test Pipeline Message - Main";
+        return "Test Pipeline Message - Main Branch";
     }
     
 }
